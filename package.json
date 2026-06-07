@@ -1,0 +1,5 @@
+{
+  "name": "server-finder-api-hop",
+  "version": "1.0.0",
+  "description": "API hop proxy for Server Finder — Vercel Edge Function"
+}
